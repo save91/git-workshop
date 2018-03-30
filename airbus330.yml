@@ -6,6 +6,7 @@ length: 58.8
 height: 17.4
 wingspan: 60.3
 cruisingSpeed: 870
+lifeJacket: H7-25
 seats:
   - business: 20
   - premiumEconomy: 50
